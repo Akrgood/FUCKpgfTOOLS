@@ -1,6 +1,6 @@
 ![FUCKpgfTOOLS](FUCKpgfTOOLS.png)
 # FUCKpgfTOOLS
-![FUCKpgfTOOLS](https://img.shields.io/badge/FUCKpgfTOOLS-v4.0-red?style=for-the-badge&logo=python)
+![FUCKpgfTOOLS](https://img.shields.io/badge/FUCKpgfTOOLS-v5.0-red?style=for-the-badge&logo=python)
 
 Editing and converting PGF fonts
 
