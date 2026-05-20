@@ -14,5 +14,5 @@ It also includes a TTF/OTF to PGF converter created by my friend Ivan: https://g
 
 !!!Starting with version 3, I'm releasing ready-to-run EXE files that don't require any library installations or anything like that.
 
-<img width="1919" height="1030" alt="зображення" src="https://github.com/user-attachments/assets/b33456bd-fd6b-4b97-a7be-497bf3872cef" />
+<img width="1919" height="1029" alt="зображення" src="https://github.com/user-attachments/assets/da15c411-aacf-4415-b6d5-8dfda6efeced" />
 <img width="426" height="521" alt="зображення" src="https://github.com/user-attachments/assets/9fca2eda-5e6c-4674-a75f-81f69b242ad6" />
